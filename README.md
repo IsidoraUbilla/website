@@ -1,5 +1,5 @@
 # website
-mi intento de página personal, no se me ocurrió algo mejor
+mi intento de página personal
 
 
 https://bootstrapmade.com/demo/Regna/   en este me base
