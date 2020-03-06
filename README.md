@@ -3,9 +3,8 @@ https://bootstrapmade.com/demo/Regna/
 
 NOTA: variables para languages
 
-""""
 {% get_current_language as language %}
-
+""""
           <div class="header-extras">
             <ul>
               <li>
